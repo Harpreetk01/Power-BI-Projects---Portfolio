@@ -148,3 +148,6 @@ And eventually, I extracted some key insights from the data.
 2. Launch targeted education programs on safe driving to reduce accidents and insurance programs for low-education policyholders.
 3. Married and Single individuals have the highest claim frequency, so offer specialized policies that address their needs, such as family coverage or discounts for multiple vehicles.
 4. Offer some benefits and incentives to policyholders for maintaining a clean claims record.
+
+# **Dashboard Link -**
+https://www.novypro.com/profile_projects/harpreetk-portfolio
